@@ -22,7 +22,7 @@
 - Terraform
 - Docker
 
-See the `DevOps/Tf` folder to learn how to deploy this website in the Linode cloud using **terraform**. The deployment process is completely automated.
+See the `DevOps/Tf` folder to learn how to deploy this website in the Linode cloud using **terraform**. The deployment process is completely automated. 
 See frontend and backend folders respectively to view detailed documentation on how the website was developed.
 
 The url to the live website is [something-amazing.live](http://something-amazing.live:8080/).
